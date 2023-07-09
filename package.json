@@ -1,0 +1,23 @@
+{
+  "name": "absoluta",
+  "version": "1.0.0",
+  "description": "Data driven appilication for AI application development",
+  "main": "config.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoynazKovacs/absoluta.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoynazKovacs/absoluta/issues"
+  },
+  "homepage": "https://github.com/LoynazKovacs/absoluta#readme",
+  "dependencies": {
+    "openai": "^3.3.0"
+  }
+}
